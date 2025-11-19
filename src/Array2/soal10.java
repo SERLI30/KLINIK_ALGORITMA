@@ -31,7 +31,7 @@ public class soal10 {
             System.out.print(x + " ");
         }
 
-        System.out.print("\nHasil geser kiri: ");
+        System.out.print("\nHasil: ");
         for (int x : geser) {
             System.out.print(x + " ");
         }
